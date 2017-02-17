@@ -1,0 +1,101 @@
+.blue_board{
+	background-color:#69D2E7;
+	height:300px;
+	width:100%;
+}
+.hello{
+	text-align:center;
+	color:white;
+	font-family: "arial";
+}
+#hello{
+	padding-top:80px;
+	font-size:40px;
+	margin-bottom:-20px;
+}
+#we_are{
+	font-size:20px;
+}
+.about_us{
+	border-radius:10px;
+	width:50%;
+	margin-top:-50px;
+	height:200px;
+	border:1px solid black;
+	margin-left: 25%;
+	background-color:white;
+}
+.about_us_text{
+	text-align:center;
+	font-family: "arial";
+	font-size:27px;
+}
+.about_us_second{
+	padding-right: 15px;
+	padding-left: 15px;
+}
+hr{
+	color:gray;
+}
+.about_lorrrem{
+	text-align:justify;
+	font-family: "arial";
+}
+._gray_background{
+	background-color: #F1F1F1;
+	z-index:-1;
+	width:100%;
+	border:1px solid black;
+	display:inline-block;
+}
+.copyright{
+	height:70px;
+	width:100%;
+	background-color:#FA6900
+}
+.copyright2{       
+	color:white;
+	text-align:center;
+	font-family: "arial";
+}
+.box{
+	display:inline-block;
+	border:1px solid black;
+	width:150px;
+	height:150px;
+	border-radius:10px;
+	margin-top:20px;
+}
+#first{
+	margin-left:25%;
+	margin-right:160px;
+}
+#second{
+	margin-right:160px;
+}
+
+img{
+	height:150px;
+	width:150px;
+	border-radius:15px;
+}
+.text{
+	font-family:arial;
+	font-size:18px;
+	display:inline-block;
+	width:150px;
+	text-align: justify;
+}
+#hive{
+	margin-left:25%;
+	margin-right:160px;
+}
+#tonometr{
+	margin-right:160px;
+}
+.fa-stack fa-lg{
+	color:white;
+	position: absolute;
+	right:0px;
+	top:0px;
+}
